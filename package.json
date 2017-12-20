@@ -9,6 +9,12 @@
       "hash": "QmYNGtJHgaGZkpzq8yG6Wxqm6EQTKqgpBfnyyGBKbZeDUi",
       "name": "go-randbuf",
       "version": "0.0.0"
+    },
+    {
+      "author": "Stebalien",
+      "hash": "QmQ7qspthUGKVGgbBTkn1jc9GHcL4KvPFJLbsKPVgtGFHL",
+      "name": "go-buffer-pool",
+      "version": "0.1.0"
     }
   ],
   "gxVersion": "0.11.0",
