@@ -5,7 +5,7 @@ import (
 	"io"
 	"sync"
 
-	mpool "github.com/libp2p/go-msgio/mpool"
+	mpool "github.com/dms3-p2p/go-msgio/mpool"
 )
 
 //  ErrMsgTooLarge is returned when the message length is exessive
